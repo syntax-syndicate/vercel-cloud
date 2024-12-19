@@ -1,5 +1,13 @@
 # @vercel/next
 
+## 4.4.1
+
+### Patch Changes
+
+- Added root params support for pages powered by partial prerendering ([#12764](https://github.com/vercel/vercel/pull/12764))
+
+- Refactor build-util usage to reuse detected lockfile ([#12749](https://github.com/vercel/vercel/pull/12749))
+
 ## 4.4.0
 
 ### Minor Changes
